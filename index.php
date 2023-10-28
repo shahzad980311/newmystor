@@ -40,10 +40,10 @@
                        <a class="nav-link" href="#">contect</a>
                       </li>
                     <li class="nav-item">
-                       <a class="nav-link" href="#"><i class="fa-solid fa-cart-plus"></i><super>1</super></a>
+                       <a class="nav-link" href="cart.php"><i class="fa-solid fa-cart-plus"></i><sup>1</sup></a>
                     </li>
                     <li class="nav-item">
-                       <a class="nav-link" href="#">Total price</a>
+                       <a class="nav-link" href="#">Total price :    </a>
                     </li>
        
                 </ul>
